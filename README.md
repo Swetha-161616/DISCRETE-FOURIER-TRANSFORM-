@@ -86,4 +86,4 @@ title('Inverse FFT OF X(K)');
 # FFT:
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb1118da-8e75-4f52-84fd-95fe02de75e6" />
 # RESULT: 
-The DFT of the given sequence using Direct method and FFT method are obtained
+ The DFT of the given sequence using Direct method and FFT method are obtained
